@@ -20,9 +20,4 @@ public class MortisBowItem extends BowItem {
         super.releaseUsing(itemStack, level, livingEntity, remainTime);
     }
 
-    @Override
-    public boolean isDamageable(ItemStack stack) {
-        return false;
-    }
-
 }
