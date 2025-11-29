@@ -1,0 +1,8 @@
+{
+  "effect.p1nero_bow.double_arrow": "Двойная стрела",
+  "item.p1nero_bow.mortis": "Мортис",
+  "item.p1nero_bow.mortis_innate.tooltip0": "Эхо Мортиса",
+  "item.p1nero_bow.mortis_innate.tooltip1": "Нажмите [%s] во время стрельбы, чтобы отменить движение.",
+  "item.p1nero_bow.mortis_innate.tooltip2": "При использовании базовой атаки нажмите [%s], чтобы нанести сокрушительный удар в ближнем бою и сбросить комбо.",
+  "item.p1nero_bow.mortis_innate.tooltip3": "Когда комбо достигает своего предела, вам даруется сила двойных стрел."
+}
